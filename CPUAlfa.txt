@@ -1,0 +1,41 @@
+Nombre del SO	Microsoft Windows 10 Pro
+Versión	10.0.19043 Compilación 19043
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	DESKTOP-RF912C8
+Fabricante del sistema	LENOVO
+Modelo del sistema	6474AV4
+Tipo de sistema	x64-based PC
+SKU del sistema	
+Procesador	Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz, 2401 Mhz, 2 procesadores principales, 2 procesadores lógicos
+Versión y fecha de BIOS	LENOVO 7UET94WW (3.24 ), 17/10/2012
+Versión de SMBIOS	2.4
+Versión de controladora integrada	1.06
+Modo de BIOS	Heredado
+Fabricante de la placa base	LENOVO
+Producto placa base	6474AV4
+Versión de la placa base	Not Available
+Rol de plataforma	Móvil
+Estado de arranque seguro	No compatible
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\WINDOWS
+Directorio del sistema	C:\WINDOWS\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	México
+Capa de abstracción de hardware	Versión = "10.0.19041.1151"
+Nombre de usuario	DESKTOP-RF912C8\Fernando
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	4,00 GB
+Memoria física total	3,90 GB
+Memoria física disponible	312 MB
+Memoria virtual total	6,27 GB
+Memoria virtual disponible	987 MB
+Espacio de archivo de paginación	2,38 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Desactivado
+Seguridad basada en virtualización	No habilitado
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático de dispositivo: No se admite un enlace PCR7, Error en la interfaz de prueba de seguridad de hardware y el dispositivo no está en modo de espera moderno, Se detectaron dispositivos o un bus compatible con DMA no permitidos
+Hyper-V - Extensiones de modo de monitor VM	Sí
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	No
+Hyper-V - Virtualización habilitada en Firmware	No
+Hyper-V -Protección de ejecución de datos	Sí
