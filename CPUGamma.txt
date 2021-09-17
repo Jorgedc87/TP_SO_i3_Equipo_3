@@ -1,0 +1,25 @@
+Sistema operativo	Microsoft Windows 7 Ultimate
+Versión	6.1.7601 Service Pack 1 Compilación 7601
+Descripción adicional del sistema operativo 	No disponible
+Fabricante del sistema operativo	Microsoft Corporation
+Nombre del sistema	JAVI-2-PC
+Fabricante del sistema	System manufacturer
+Modelo del sistema	System Product Name
+Tipo de sistema	PC basado en x64
+Procesador	AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G, 3300 Mhz, 4 procesadores principales, 4 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. 0601, 10/04/2014
+Versión de SMBIOS	2.7
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	Argentina
+Capa de abstracción de hardware	Versión = "6.1.7601.17514"
+Nombre de usuario	JAVI-2-PC\javi2
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	16,0 GB
+Memoria física total	14,5 GB
+Memoria física disponible	7,32 GB
+Memoria virtual total	28,9 GB
+Memoria virtual disponible	17,7 GB
+Espacio de archivo de paginación	14,5 GB
+Archivo de paginación	F:\pagefile.sys
