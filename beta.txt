@@ -1,3 +1,6 @@
+﻿nombre y apellido: Jorge Calderón
+la iP de la m�quina : 2800:810:484:5ea:9491:773:9758:43b9
+y la hora: 19:32 17/9/2021
 Adaptador de Ethernet Ethernet:
 
    Sufijo DNS específico para la conexión. . :
@@ -23,3 +26,33 @@ Hora: 19:37 17/9/2021
 function noMeHackee() {
     var = 'Por favor';
 }
+------------------------------------------------------------------------------------
+nombre y apellido:Javier Olivieri
+la iP de la m�quina : 181.46.182.226
+y la hora: 07:15 p.m. 17/09/2021
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:484:5ea::1001
+   Dirección IPv6 . . . . . . . . . . : 2800:810:484:5ea:bdd0:657b:da06:908d
+   Dirección IPv6 temporal. . . . . . : 2800:810:484:5ea:9491:773:9758:43b9
+   Vínculo: dirección IPv6 local. . . : fe80::bdd0:657b:da06:908d%20
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::d26e:deff:fe8d:31f1%20
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9b1:ad75:7cd5:36c4%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Hora: 19:37 17/9/2021
+
+function noMeHackee() {
+    var = 'Por favor';
+}
+------------------------------------------------------------------------------------
