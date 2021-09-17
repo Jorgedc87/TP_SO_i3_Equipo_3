@@ -29,7 +29,7 @@ function noMeHackee() {
 ------------------------------------------------------------------------------------
 nombre y apellido:Javier Olivieri
 la iP de la m�quina : 181.46.182.226
-y la hora: 07:15 p.m. 17/09/2021
+y la hora: 07:38 p.m. 17/09/2021
 Adaptador de Ethernet Ethernet:
 
    Sufijo DNS específico para la conexión. . :
@@ -50,9 +50,37 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
-Hora: 19:37 17/9/2021
+Hora: 19:38 17/9/2021
 
-function noMeHackee() {
-    var = 'Por favor';
-}
+
 ------------------------------------------------------------------------------------
+nombre y apellido:Fernando Nieto
+la iP de la m�quina : 179.37.185.138
+y la hora: 19:45 17/9/2021
+
+Configuración IP de Windows
+
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::fd17:5889:d2d7:5b56%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.41
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::8278:71ff:fe59:abcd%10
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
