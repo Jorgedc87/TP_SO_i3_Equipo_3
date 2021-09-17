@@ -1,7 +1,12 @@
 nombre y apellido:Javier Olivieri
-la iP de la máquina : 181.46.182.226
+la iP de la mï¿½quina : 181.46.182.226
 y la hora: 07:15 p.m. 17/09/2021
 ---------------------------------
 nombre y apellido: Fernando Nieto
-la iP de la máquina : 179.37.185.138
+la iP de la mï¿½quina : 179.37.185.138
 y la hora: 19:28 17/9/2021
+---------------------------------
+nombre y apellido: Jorge CalderÃ³n
+la iP de la mï¿½quina : 2800:810:484:5ea:9491:773:9758:43b9
+y la hora: 19:32 17/9/2021
+---------------------------------

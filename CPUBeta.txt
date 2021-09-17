@@ -1,0 +1,42 @@
+Nombre del SO	Microsoft Windows 10 Pro
+Versión	10.0.19041 compilación 19041
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	DESKTOP-ROS66L7
+Fabricante del sistema	MSI
+Modelo del sistema	MS-7A71
+Tipo de sistema	PC basado en x64
+SKU del sistema	Default string
+Procesador	Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, 4200 Mhz, 4 procesadores principales, 8 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. 1.10, 03/02/2017
+Versión de SMBIOS	3.0
+Versión de controladora integrada	255.255
+Modo de BIOS	Heredado
+Fabricante de la placa base	MSI
+Producto de placa base	Z270-A PRO (MS-7A71)
+Versión de la placa base	1.0
+Rol de plataforma	Escritorio
+Estado de arranque seguro	No compatible
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume4
+Configuración regional	España
+Capa de abstracción de hardware	Versión = "10.0.19041.1151"
+Nombre de usuario	DESKTOP-ROS66L7\noimporta
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	32.0 GB
+Memoria física total	32.0 GB
+Memoria física disponible	20.9 GB
+Memoria virtual total	36.7 GB
+Memoria virtual disponible	22.3 GB
+Espacio de archivo de paginación	4.75 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Desactivada
+Seguridad basada en virtualización	Ejecutándose
+Propiedades de seguridad necesarias para la seguridad basada en virtualización	
+Propiedades de seguridad disponibles para la seguridad basada en virtualización	Compatibilidad con la virtualización base, Control de la ejecución basada en el modo
+Servicios configurados para la seguridad basada en virtualización	
+Servicios en ejecución para la seguridad basada en virtualización	
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático del dispositivo: No se puede usar TPM, No se admite el enlace PCR7, Error en la interfaz de prueba de seguridad de hardware. El dispositivo no está en modo de espera moderno., Se detectó un bus o un dispositivo compatible con DMA que no se permite., No se puede usar TPM
+Se detectó un hipervisor. No se mostrarán las características necesarias para Hyper-V.	
