@@ -19,7 +19,13 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 git pull
 git checkout "Calderon" 
 git add .
-git commit -m
+git commit -m "punto 7"
 git push
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git pull
+git checkout Calderon
+git add .
+git commit -m "punto 8"
+git push
+
